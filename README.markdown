@@ -3,17 +3,14 @@ A [Sass & SCSS](http://sass-lang.com/) syntax package for [Sublime Text 3](http:
 **WARNING** This fork is for Sublime Text only. I have only tested it on Sublime Text 3 at this point but it should be fine on 2.
 
 I've included some much-improved autocompletions over the original SCSS plugin for Sublime Text. I've also added some of the newer directives that weren't in the previous version. Essentially, all @-directives are now available... just type them without the "@" and hit TAB. Example:
-`while [TAB] //creates
+while [TAB] //creates...
 
-@while $i  > 0 {
+`@while $i  > 0 {
 	.item-#{$i} {
 	
 	}
 	$i: $i - 1;
-}
-
-`
-
+}`
 
 ## How to Install
 
