@@ -1,17 +1,21 @@
-![](http://i.imgur.com/AipJU.png)
-
 A [Sass & SCSS](http://sass-lang.com/) syntax package for [Sublime Text 3](http://www.sublimetext.com)
+
+**WARNING** This fork is for Sublime Text only. I have only tested it on Sublime Text 3 at this point but it should be fine on 2.
+
+I've included some much-improved autocompletions over the original SCSS plugin for Sublime Text. I've also added some of the newer directives that weren't in the previous version.
 
 ## How to Install
 
 ### Package Control *(Recommended)*
 
-1. Package Control: **Install Package** `SCSS`
-2. **Restart** Sublime Text
-    
+1. Shift-CMD-P and then select "Package Control: Add Repository"
+2. paste https://github.com/sevenfoxes/SCSS.tmbundle
+3. Shift-CMD-P and then select "Package Control: Install Package"
+4. type "SCSS" and select the one from sevenfoxes
+
 ### Git
 
-1. **Clone** to your packages folder `git clone -b SublimeText2 git://github.com/sevenfoxes/SCSS.tmbundle.git SCSS`
+1. **Clone** to your packages folder `git clone -b master git://github.com/sevenfoxes/SCSS.tmbundle.git SCSS`
 2. **Restart** Sublime Text
 
 ### Download
@@ -45,7 +49,7 @@ If your getting this error ([screenshot](http://d.pr/RSdi)), follow these steps 
 
 **[Stephen Way](http://github.com/stephenway)** **Current Maintainer**
 
-**[Mario Ricalde](http://github.com/kuroir)** **Creator** 
+**[Mario Ricalde](http://github.com/kuroir)** **Creator**
 
 **[…and many more.](https://github.com/kuroir/SCSS.tmbundle/graphs/contributors)**
 
@@ -62,6 +66,3 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 Except as contained in this notice, the name(s) of the above copyright holders shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization.
 
 Contributors to this project agree to grant all rights to the copyright holder of the primary product. Attribution is maintained in the source control history of the product.
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/MarioRicalde/scss.tmbundle/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
