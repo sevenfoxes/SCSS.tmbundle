@@ -1,6 +1,6 @@
 ![](http://i.imgur.com/AipJU.png)
 
-A [Sass & SCSS](http://sass-lang.com/) syntax package for [Sublime Text 2](http://www.sublimetext.com)
+A [Sass & SCSS](http://sass-lang.com/) syntax package for [Sublime Text 3](http://www.sublimetext.com)
 
 ## How to Install
 
@@ -11,12 +11,12 @@ A [Sass & SCSS](http://sass-lang.com/) syntax package for [Sublime Text 2](http:
     
 ### Git
 
-1. **Clone** to your packages folder `git clone -b SublimeText2 git://github.com/kuroir/SCSS.tmbundle.git SCSS`
+1. **Clone** to your packages folder `git clone -b SublimeText2 git://github.com/sevenfoxes/SCSS.tmbundle.git SCSS`
 2. **Restart** Sublime Text
 
 ### Download
 
-1. **Download** this **[ZIP file](https://github.com/kuroir/SCSS.tmbundle/zipball/SublimeText2)**
+1. **Download** this **[ZIP file](https://github.com/sevenfoxes/SCSS.tmbundle/zipball/SublimeText2)**
 2. Move to packages folder *(In the **Sublime Text 2** menu → **Preferences** → **Browse Packages…**)*
 3. **Restart** Sublime Text
 

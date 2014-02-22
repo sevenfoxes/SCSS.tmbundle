@@ -1,0 +1,5 @@
+<snippet>
+	<content>@debug ${1:debug_stuff};</content>
+	<tabTrigger>debug</tabTrigger>
+	<scope>source.scss</scope>
+</snippet>

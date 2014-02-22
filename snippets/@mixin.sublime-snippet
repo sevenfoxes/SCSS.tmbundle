@@ -1,0 +1,7 @@
+<snippet>
+	<content>@mixin ${1:mixin-name}${2:(${3:\$params})} {
+	$4
+}</content>
+	<tabTrigger>mixin</tabTrigger>
+	<scope>source.scss</scope>
+</snippet>
