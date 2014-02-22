@@ -5,13 +5,14 @@ A [Sass & SCSS](http://sass-lang.com/) syntax package for [Sublime Text 3](http:
 I've included some much-improved autocompletions over the original SCSS plugin for Sublime Text. I've also added some of the newer directives that weren't in the previous version. Essentially, all @-directives are now available... just type them without the "@" and hit TAB. Example:
 while [TAB] //creates...
 
-`@while $i  > 0 {
+```
+@while $i  > 0 {
 	.item-#{$i} {
 	
 	}
 	$i: $i - 1;
-}`
-
+}
+```
 ## How to Install
 
 ### Package Control *(Recommended)*
