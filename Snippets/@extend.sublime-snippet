@@ -1,0 +1,5 @@
+<snippet>
+	<content>@extend ${1:class_id_extend-only};</content>
+	<tabTrigger>extend</tabTrigger>
+	<scope>source.scss</scope>
+</snippet>

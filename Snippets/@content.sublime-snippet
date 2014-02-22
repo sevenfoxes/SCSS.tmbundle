@@ -1,0 +1,5 @@
+<snippet>
+	<content>@content;</content>
+	<tabTrigger>content</tabTrigger>
+	<scope>source.scss</scope>
+</snippet>

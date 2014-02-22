@@ -1,0 +1,10 @@
+<snippet>
+	<content>@while \$${1:i}  ${2:>} ${3:0} {
+	${4:.item-#{\$${1:i}\}} {
+	$5
+	}
+	\$${1:i}: \$${1:i} ${6:-} ${7:1};
+}</content>
+	<tabTrigger>while</tabTrigger>
+	<scope>source.scss</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content>@warn ${1:string};</content>
+	<tabTrigger>warn</tabTrigger>
+	<scope>source.scss</scope>
+</snippet>

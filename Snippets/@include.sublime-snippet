@@ -1,0 +1,5 @@
+<snippet>
+	<content>@include ${1:mixin_name}(${2:args});</content>
+	<tabTrigger>include</tabTrigger>
+	<scope>source.scss</scope>
+</snippet>
