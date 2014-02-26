@@ -1,5 +1,5 @@
 <snippet>
-	<content>@import "${1:file};</content>
+	<content>@import "${1:file}";</content>
 	<tabTrigger>import</tabTrigger>
 	<scope>source.scss</scope>
 </snippet>
