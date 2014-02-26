@@ -1,7 +1,5 @@
 <snippet>
-	<content>@if ${1:conditions} {
-	$2
-}</content>
-	<tabTrigger>if</tabTrigger>
+	<content>@import "${1:file};</content>
+	<tabTrigger>import</tabTrigger>
 	<scope>source.scss</scope>
 </snippet>
